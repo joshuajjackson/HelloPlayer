@@ -1,0 +1,7 @@
+Admin - Views all, Creates, Updates, Deactives Reacivates roles, 
+Quest Master - Views, Creates, Updates, Deactivates, Reactivates Quests, Approves Quest Completion, Denies Incomplete Quests, Tracks Player's Quest, Views Player's Details, Views Business Quest Detail Forms
+Skill Manager - Views, Creates, Updates, Deactivates, Reactives Skill Trees, Tracks EXP Points into Skill Trees, Manages EXP Balancing, Adds EXP to Player Skill Tree, View Player's Details
+Payout Manager - Views, Creates, Updates Payouts, Issues payouts to players, View Player Details
+Business Coordinator - Views, Creates, Updates, Deactivates, Reactivates Business Partnerships, Views, Creates, Updates Deactivates, Reactivates Business Payouts, Views, Creates, Updates, Deactivates, Reactivates Business Quest Detail Forms
+Player Support- Views, updates, deactivates, reactivates player profiles, Views, creates, updates, deactivates, reactivates leaderboards, views player reports, responds to player reports, manages player party details
+Player - Views, Creates, Updates, Deactivates, Reactivates Player Profile, Views Skill Tree, Views Quests, Activates, Deactivates Active Quests, Reports Issues, Views and reponds to player support messages, Form  parties with other players, Views Leaderboards

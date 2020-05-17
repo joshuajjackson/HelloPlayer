@@ -1,0 +1,60 @@
+F:\Spring 2020\net 3\HelloPlayer\Logic\bin\Debug\Logic.dll
+F:\Spring 2020\net 3\HelloPlayer\Logic\bin\Debug\Logic.pdb
+F:\Spring 2020\net 3\HelloPlayer\Logic\bin\Debug\DataAccess.dll
+F:\Spring 2020\net 3\HelloPlayer\Logic\bin\Debug\DataAccessInterface.dll
+F:\Spring 2020\net 3\HelloPlayer\Logic\bin\Debug\DataObject.dll
+F:\Spring 2020\net 3\HelloPlayer\Logic\bin\Debug\LogicInterfaces.dll
+F:\Spring 2020\net 3\HelloPlayer\Logic\bin\Debug\DataAccessInterface.pdb
+F:\Spring 2020\net 3\HelloPlayer\Logic\bin\Debug\DataAccess.pdb
+F:\Spring 2020\net 3\HelloPlayer\Logic\bin\Debug\DataObject.pdb
+F:\Spring 2020\net 3\HelloPlayer\Logic\bin\Debug\LogicInterfaces.pdb
+F:\Spring 2020\net 3\HelloPlayer\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+F:\Spring 2020\net 3\HelloPlayer\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+F:\Spring 2020\net 3\HelloPlayer\Logic\obj\Debug\Logic.csproj.CopyComplete
+F:\Spring 2020\net 3\HelloPlayer\Logic\obj\Debug\Logic.dll
+F:\Spring 2020\net 3\HelloPlayer\Logic\obj\Debug\Logic.pdb
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\Logic\bin\Debug\Logic.dll
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\Logic\bin\Debug\Logic.pdb
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\Logic\bin\Debug\DataAccess.dll
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\Logic\bin\Debug\DataAccessInterface.dll
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\Logic\bin\Debug\DataObject.dll
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\Logic\bin\Debug\LogicInterfaces.dll
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\Logic\bin\Debug\DataAccessInterface.pdb
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\Logic\bin\Debug\DataAccess.pdb
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\Logic\bin\Debug\DataObject.pdb
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\Logic\bin\Debug\LogicInterfaces.pdb
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\Logic\obj\Debug\Logic.csproj.CopyComplete
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\Logic\obj\Debug\Logic.dll
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\Logic\obj\Debug\Logic.pdb
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\Logic\bin\Debug\Logic.dll
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\Logic\bin\Debug\Logic.pdb
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\Logic\bin\Debug\DataAccess.dll
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\Logic\bin\Debug\DataAccessInterface.dll
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\Logic\bin\Debug\DataObject.dll
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\Logic\bin\Debug\LogicInterfaces.dll
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\Logic\bin\Debug\DataAccessInterface.pdb
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\Logic\bin\Debug\DataAccess.pdb
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\Logic\bin\Debug\DataObject.pdb
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\Logic\bin\Debug\LogicInterfaces.pdb
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\Logic\obj\Debug\Logic.csproj.CopyComplete
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\Logic\obj\Debug\Logic.dll
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\Logic\obj\Debug\Logic.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\Logic\bin\Debug\Logic.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\Logic\bin\Debug\Logic.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\Logic\bin\Debug\DataAccess.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\Logic\bin\Debug\DataAccessInterface.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\Logic\bin\Debug\DataObject.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\Logic\bin\Debug\LogicInterfaces.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\Logic\bin\Debug\DataAccessInterface.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\Logic\bin\Debug\DataAccess.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\Logic\bin\Debug\DataObject.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\Logic\bin\Debug\LogicInterfaces.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\Logic\obj\Debug\Logic.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\Logic\obj\Debug\Logic.pdb

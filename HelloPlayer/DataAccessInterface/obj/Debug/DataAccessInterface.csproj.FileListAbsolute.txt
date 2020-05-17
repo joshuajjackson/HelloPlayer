@@ -1,0 +1,27 @@
+F:\Spring 2020\net 3\HelloPlayer\DataAccessInterface\bin\Debug\DataAccessInterface.dll
+F:\Spring 2020\net 3\HelloPlayer\DataAccessInterface\bin\Debug\DataAccessInterface.pdb
+F:\Spring 2020\net 3\HelloPlayer\DataAccessInterface\bin\Debug\DataObject.dll
+F:\Spring 2020\net 3\HelloPlayer\DataAccessInterface\bin\Debug\DataObject.pdb
+F:\Spring 2020\net 3\HelloPlayer\DataAccessInterface\obj\Debug\DataAccessInterface.csprojAssemblyReference.cache
+F:\Spring 2020\net 3\HelloPlayer\DataAccessInterface\obj\Debug\DataAccessInterface.csproj.CoreCompileInputs.cache
+F:\Spring 2020\net 3\HelloPlayer\DataAccessInterface\obj\Debug\DataAccessInterface.csproj.CopyComplete
+F:\Spring 2020\net 3\HelloPlayer\DataAccessInterface\obj\Debug\DataAccessInterface.dll
+F:\Spring 2020\net 3\HelloPlayer\DataAccessInterface\obj\Debug\DataAccessInterface.pdb
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\DataAccessInterface\bin\Debug\DataAccessInterface.dll
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\DataAccessInterface\bin\Debug\DataAccessInterface.pdb
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\DataAccessInterface\bin\Debug\DataObject.dll
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\DataAccessInterface\bin\Debug\DataObject.pdb
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\DataAccessInterface\obj\Debug\DataAccessInterface.csprojAssemblyReference.cache
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\DataAccessInterface\obj\Debug\DataAccessInterface.csproj.CoreCompileInputs.cache
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\DataAccessInterface\obj\Debug\DataAccessInterface.csproj.CopyComplete
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\DataAccessInterface\obj\Debug\DataAccessInterface.dll
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\DataAccessInterface\obj\Debug\DataAccessInterface.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccessInterface\bin\Debug\DataAccessInterface.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccessInterface\bin\Debug\DataAccessInterface.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccessInterface\bin\Debug\DataObject.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccessInterface\bin\Debug\DataObject.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccessInterface\obj\Debug\DataAccessInterface.csprojAssemblyReference.cache
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccessInterface\obj\Debug\DataAccessInterface.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccessInterface\obj\Debug\DataAccessInterface.csproj.CopyComplete
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccessInterface\obj\Debug\DataAccessInterface.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccessInterface\obj\Debug\DataAccessInterface.pdb

@@ -1,0 +1,18 @@
+F:\Spring 2020\net 3\HelloPlayer\DataObject\bin\Debug\DataObject.dll
+F:\Spring 2020\net 3\HelloPlayer\DataObject\bin\Debug\DataObject.pdb
+F:\Spring 2020\net 3\HelloPlayer\DataObject\obj\Debug\DataObject.csprojAssemblyReference.cache
+F:\Spring 2020\net 3\HelloPlayer\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+F:\Spring 2020\net 3\HelloPlayer\DataObject\obj\Debug\DataObject.dll
+F:\Spring 2020\net 3\HelloPlayer\DataObject\obj\Debug\DataObject.pdb
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\DataObject\bin\Debug\DataObject.dll
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\DataObject\bin\Debug\DataObject.pdb
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\DataObject\obj\Debug\DataObject.csprojAssemblyReference.cache
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\DataObject\obj\Debug\DataObject.dll
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\DataObject\obj\Debug\DataObject.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataObject\bin\Debug\DataObject.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataObject\bin\Debug\DataObject.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataObject\obj\Debug\DataObject.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataObject\obj\Debug\DataObject.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataObject\obj\Debug\DataObject.csprojAssemblyReference.cache

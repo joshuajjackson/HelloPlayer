@@ -1,0 +1,27 @@
+F:\Spring 2020\net 3\HelloPlayer\LogicInterfaces\bin\Debug\LogicInterfaces.dll
+F:\Spring 2020\net 3\HelloPlayer\LogicInterfaces\bin\Debug\LogicInterfaces.pdb
+F:\Spring 2020\net 3\HelloPlayer\LogicInterfaces\bin\Debug\DataObject.dll
+F:\Spring 2020\net 3\HelloPlayer\LogicInterfaces\bin\Debug\DataObject.pdb
+F:\Spring 2020\net 3\HelloPlayer\LogicInterfaces\obj\Debug\LogicInterfaces.csprojAssemblyReference.cache
+F:\Spring 2020\net 3\HelloPlayer\LogicInterfaces\obj\Debug\LogicInterfaces.csproj.CoreCompileInputs.cache
+F:\Spring 2020\net 3\HelloPlayer\LogicInterfaces\obj\Debug\LogicInterfaces.csproj.CopyComplete
+F:\Spring 2020\net 3\HelloPlayer\LogicInterfaces\obj\Debug\LogicInterfaces.dll
+F:\Spring 2020\net 3\HelloPlayer\LogicInterfaces\obj\Debug\LogicInterfaces.pdb
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\LogicInterfaces\bin\Debug\LogicInterfaces.dll
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\LogicInterfaces\bin\Debug\LogicInterfaces.pdb
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\LogicInterfaces\bin\Debug\DataObject.dll
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\LogicInterfaces\bin\Debug\DataObject.pdb
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\LogicInterfaces\obj\Debug\LogicInterfaces.csprojAssemblyReference.cache
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\LogicInterfaces\obj\Debug\LogicInterfaces.csproj.CoreCompileInputs.cache
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\LogicInterfaces\obj\Debug\LogicInterfaces.csproj.CopyComplete
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\LogicInterfaces\obj\Debug\LogicInterfaces.dll
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\LogicInterfaces\obj\Debug\LogicInterfaces.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicInterfaces\bin\Debug\LogicInterfaces.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicInterfaces\bin\Debug\LogicInterfaces.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicInterfaces\bin\Debug\DataObject.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicInterfaces\bin\Debug\DataObject.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicInterfaces\obj\Debug\LogicInterfaces.csprojAssemblyReference.cache
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicInterfaces\obj\Debug\LogicInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicInterfaces\obj\Debug\LogicInterfaces.csproj.CopyComplete
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicInterfaces\obj\Debug\LogicInterfaces.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicInterfaces\obj\Debug\LogicInterfaces.pdb

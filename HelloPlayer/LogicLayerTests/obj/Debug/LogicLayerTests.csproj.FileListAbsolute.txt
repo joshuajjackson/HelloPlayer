@@ -1,0 +1,44 @@
+F:\Spring 2020\net 3\HelloPlayer\LogicLayerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Spring 2020\net 3\HelloPlayer\LogicLayerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Spring 2020\net 3\HelloPlayer\LogicLayerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Spring 2020\net 3\HelloPlayer\LogicLayerTests\bin\Debug\LogicLayerTests.dll
+F:\Spring 2020\net 3\HelloPlayer\LogicLayerTests\bin\Debug\LogicLayerTests.pdb
+F:\Spring 2020\net 3\HelloPlayer\LogicLayerTests\bin\Debug\DataObject.dll
+F:\Spring 2020\net 3\HelloPlayer\LogicLayerTests\bin\Debug\LogicInterfaces.dll
+F:\Spring 2020\net 3\HelloPlayer\LogicLayerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\Spring 2020\net 3\HelloPlayer\LogicLayerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\Spring 2020\net 3\HelloPlayer\LogicLayerTests\bin\Debug\DataObject.pdb
+F:\Spring 2020\net 3\HelloPlayer\LogicLayerTests\bin\Debug\LogicInterfaces.pdb
+F:\Spring 2020\net 3\HelloPlayer\LogicLayerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\Spring 2020\net 3\HelloPlayer\LogicLayerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\Spring 2020\net 3\HelloPlayer\LogicLayerTests\obj\Debug\LogicLayerTests.csprojAssemblyReference.cache
+F:\Spring 2020\net 3\HelloPlayer\LogicLayerTests\obj\Debug\LogicLayerTests.csproj.CoreCompileInputs.cache
+F:\Spring 2020\net 3\HelloPlayer\LogicLayerTests\obj\Debug\LogicLayerTests.csproj.CopyComplete
+F:\Spring 2020\net 3\HelloPlayer\LogicLayerTests\obj\Debug\LogicLayerTests.dll
+F:\Spring 2020\net 3\HelloPlayer\LogicLayerTests\obj\Debug\LogicLayerTests.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicLayerTests\obj\Debug\LogicLayerTests.csprojAssemblyReference.cache
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicLayerTests\obj\Debug\LogicLayerTests.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicLayerTests\obj\Debug\LogicLayerTests.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicLayerTests\obj\Debug\LogicLayerTests.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicLayerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicLayerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicLayerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicLayerTests\bin\Debug\LogicLayerTests.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicLayerTests\bin\Debug\LogicLayerTests.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicLayerTests\bin\Debug\DataObject.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicLayerTests\bin\Debug\LogicInterfaces.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicLayerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicLayerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicLayerTests\bin\Debug\DataObject.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicLayerTests\bin\Debug\LogicInterfaces.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicLayerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicLayerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicLayerTests\obj\Debug\LogicLayerTests.csproj.CopyComplete
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicLayerTests\bin\Debug\DataAccessFake.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicLayerTests\bin\Debug\DataAccessInterface.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicLayerTests\bin\Debug\Logic.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicLayerTests\bin\Debug\DataAccess.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicLayerTests\bin\Debug\DataAccessFake.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicLayerTests\bin\Debug\DataAccessInterface.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicLayerTests\bin\Debug\Logic.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\LogicLayerTests\bin\Debug\DataAccess.pdb

@@ -1,0 +1,60 @@
+﻿@model IEnumerable<DataObject.Quest>
+
+    <p>
+        @if (User.IsInRole("Administrator"))
+        {
+            @Html.ActionLink("Create New", "Create")
+        }
+    </p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.QuestName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.QuestDescription)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.WorthExp)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.QuestName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.QuestDescription)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.WorthExp)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Active)
+        </td>
+        <td>
+            @if (User.IsInRole("Administrator"))
+            {
+                @Html.ActionLink("Edit", "Edit", new { id = item.QuestID })
+                @Html.ActionLink("Details", "Details", new { id = item.QuestID })
+                @Html.ActionLink("Delete", "Delete", new { id = item.QuestID })
+            }
+            @if (User.IsInRole("Free Account") || User.IsInRole("Premium Account"))
+            {
+                if (ViewBag.AcceptedQuests == null)
+                {
+                    @Html.ActionLink("Accept Quest", "AcceptQuest", new { id = item.QuestID, email = User.Identity.Name })
+                }
+                else
+                {
+                    @Html.ActionLink("Complete Quest", "CompleteQuest", new { id = item.QuestID, email = User.Identity.Name }) 
+                    @Html.ActionLink("Abandon Quest", "AbandonQuest", new { id = item.QuestID, email = User.Identity.Name })
+                }
+            }
+        </td>
+    </tr>
+}
+
+</table>

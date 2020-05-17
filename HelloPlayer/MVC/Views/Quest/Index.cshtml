@@ -1,0 +1,42 @@
+﻿@model IEnumerable<DataObject.Quest>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.QuestName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.QuestDescription)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.WorthExp)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.QuestName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.QuestDescription)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.WorthExp)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Active)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.QuestID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.QuestID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.QuestID })
+        </td>
+    </tr>
+}
+
+</table>

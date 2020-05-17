@@ -1,0 +1,126 @@
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\obj\Debug\HelloPlayerEmpHub.g.cs
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\obj\Debug\Login.g.cs
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\obj\Debug\UpdatePassword.g.cs
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\obj\Debug\App.g.cs
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.cache
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.lref
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\bin\Debug\PresentationLayer.exe
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\bin\Debug\PresentationLayer.pdb
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\bin\Debug\DataObject.dll
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\bin\Debug\Logic.dll
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\bin\Debug\LogicInterfaces.dll
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\bin\Debug\DataAccessInterface.dll
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\bin\Debug\DataAccess.dll
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\bin\Debug\DataObject.pdb
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\bin\Debug\LogicInterfaces.pdb
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\bin\Debug\Logic.pdb
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\bin\Debug\DataAccessInterface.pdb
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\bin\Debug\DataAccess.pdb
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\obj\Debug\HelloPlayerEmpHub.baml
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\obj\Debug\Login.baml
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\obj\Debug\UpdatePassword.baml
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.g.resources
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.exe
+F:\Spring 2020\net 3\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.pdb
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\PresentationLayer.exe
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\PresentationLayer.pdb
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\DataObject.dll
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\Logic.dll
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\LogicInterfaces.dll
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\DataAccessInterface.dll
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\DataAccess.dll
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\DataObject.pdb
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\LogicInterfaces.pdb
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\Logic.pdb
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\DataAccessInterface.pdb
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\DataAccess.pdb
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\HelloPlayerEmpHub.g.cs
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\Login.g.cs
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\UpdatePassword.g.cs
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\App.g.cs
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.cache
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.lref
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\HelloPlayerEmpHub.baml
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\Login.baml
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\UpdatePassword.baml
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.g.resources
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.exe
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.pdb
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\PresentationLayer.exe
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\PresentationLayer.pdb
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\DataObject.dll
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\Logic.dll
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\LogicInterfaces.dll
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\DataAccessInterface.dll
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\DataAccess.dll
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\DataObject.pdb
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\LogicInterfaces.pdb
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\Logic.pdb
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\DataAccessInterface.pdb
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\DataAccess.pdb
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\HelloPlayerEmpHub.g.cs
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\Login.g.cs
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\UpdatePassword.g.cs
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\App.g.cs
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.cache
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.lref
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\HelloPlayerEmpHub.baml
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\Login.baml
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\UpdatePassword.baml
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.g.resources
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.exe
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.pdb
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\AddEditEmployee.g.cs
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\AddEditEmployee.baml
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\DataObject.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\Logic.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\LogicInterfaces.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\DataAccessInterface.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\DataAccess.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\DataObject.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\LogicInterfaces.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\Logic.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\DataAccessInterface.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\bin\Debug\DataAccess.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\AddEditEmployee.g.cs
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\HelloPlayerEmpHub.g.cs
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\Login.g.cs
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\UpdatePassword.g.cs
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\App.g.cs
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.cache
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.lref
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\AddEditEmployee.baml
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\HelloPlayerEmpHub.baml
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\Login.baml
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\UpdatePassword.baml
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.g.resources
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\QuestDetails.g.cs
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\PresentationLayer\obj\Debug\QuestDetails.baml

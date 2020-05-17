@@ -1,0 +1,52 @@
+﻿@model DataObject.PatchNote
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<div>
+    <h4>PatchNote</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.PatchID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PatchID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PatchName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PatchName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PatchDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PatchDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PatchDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PatchDate)
+        </dd>
+        <h4>Whats New</h4>
+        @foreach (var p in Model.PatchLines)
+        {
+            @Html.Partial("PatchLines")
+        }
+
+    </dl>
+</div>
+

@@ -1,0 +1,44 @@
+F:\Spring 2020\net 3\HelloPlayer\DataAccess\bin\Debug\DataAccess.dll
+F:\Spring 2020\net 3\HelloPlayer\DataAccess\bin\Debug\DataAccess.pdb
+F:\Spring 2020\net 3\HelloPlayer\DataAccess\bin\Debug\DataAccessInterface.dll
+F:\Spring 2020\net 3\HelloPlayer\DataAccess\bin\Debug\DataObject.dll
+F:\Spring 2020\net 3\HelloPlayer\DataAccess\bin\Debug\DataAccessInterface.pdb
+F:\Spring 2020\net 3\HelloPlayer\DataAccess\bin\Debug\DataObject.pdb
+F:\Spring 2020\net 3\HelloPlayer\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+F:\Spring 2020\net 3\HelloPlayer\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+F:\Spring 2020\net 3\HelloPlayer\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+F:\Spring 2020\net 3\HelloPlayer\DataAccess\obj\Debug\DataAccess.dll
+F:\Spring 2020\net 3\HelloPlayer\DataAccess\obj\Debug\DataAccess.pdb
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\DataAccess\bin\Debug\DataAccess.dll
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\DataAccess\bin\Debug\DataAccess.pdb
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\DataAccess\bin\Debug\DataAccessInterface.dll
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\DataAccess\bin\Debug\DataObject.dll
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\DataAccess\bin\Debug\DataAccessInterface.pdb
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\DataAccess\bin\Debug\DataObject.pdb
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\DataAccess\obj\Debug\DataAccess.dll
+F:\Spring 2020\net 3\HelloPlayer\HelloPlayer\DataAccess\obj\Debug\DataAccess.pdb
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\DataAccess\bin\Debug\DataAccess.dll
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\DataAccess\bin\Debug\DataAccess.pdb
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\DataAccess\bin\Debug\DataAccessInterface.dll
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\DataAccess\bin\Debug\DataObject.dll
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\DataAccess\bin\Debug\DataAccessInterface.pdb
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\DataAccess\bin\Debug\DataObject.pdb
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\DataAccess\obj\Debug\DataAccess.dll
+F:\Spring2020\net 3\HelloPlayer\HelloPlayer\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccess\bin\Debug\DataAccessInterface.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccess\bin\Debug\DataObject.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccess\bin\Debug\DataAccessInterface.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccess\bin\Debug\DataObject.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccess\obj\Debug\DataAccess.pdb

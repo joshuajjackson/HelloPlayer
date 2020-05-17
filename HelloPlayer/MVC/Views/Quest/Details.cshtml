@@ -1,0 +1,50 @@
+﻿@model DataObject.Quest
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Quest</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.QuestName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.QuestName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.QuestDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.QuestDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.WorthExp)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.WorthExp)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Active)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Active)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.QuestID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

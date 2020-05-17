@@ -1,0 +1,22 @@
+F:\Spring 2020\net 3\HelloPlayer\DataAccessFake\bin\Debug\DataAccessFake.dll
+F:\Spring 2020\net 3\HelloPlayer\DataAccessFake\bin\Debug\DataAccessFake.pdb
+F:\Spring 2020\net 3\HelloPlayer\DataAccessFake\bin\Debug\DataAccessInterface.dll
+F:\Spring 2020\net 3\HelloPlayer\DataAccessFake\bin\Debug\DataObject.dll
+F:\Spring 2020\net 3\HelloPlayer\DataAccessFake\bin\Debug\DataAccessInterface.pdb
+F:\Spring 2020\net 3\HelloPlayer\DataAccessFake\bin\Debug\DataObject.pdb
+F:\Spring 2020\net 3\HelloPlayer\DataAccessFake\obj\Debug\DataAccessFake.csprojAssemblyReference.cache
+F:\Spring 2020\net 3\HelloPlayer\DataAccessFake\obj\Debug\DataAccessFake.csproj.CoreCompileInputs.cache
+F:\Spring 2020\net 3\HelloPlayer\DataAccessFake\obj\Debug\DataAccessFake.csproj.CopyComplete
+F:\Spring 2020\net 3\HelloPlayer\DataAccessFake\obj\Debug\DataAccessFake.dll
+F:\Spring 2020\net 3\HelloPlayer\DataAccessFake\obj\Debug\DataAccessFake.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccessFake\obj\Debug\DataAccessFake.csprojAssemblyReference.cache
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccessFake\obj\Debug\DataAccessFake.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccessFake\obj\Debug\DataAccessFake.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccessFake\obj\Debug\DataAccessFake.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccessFake\bin\Debug\DataAccessFake.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccessFake\bin\Debug\DataAccessFake.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccessFake\bin\Debug\DataAccessInterface.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccessFake\bin\Debug\DataObject.dll
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccessFake\bin\Debug\DataAccessInterface.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccessFake\bin\Debug\DataObject.pdb
+C:\Users\Josh\Desktop\HelloPlayer\HelloPlayer\DataAccessFake\obj\Debug\DataAccessFake.csproj.CopyComplete
